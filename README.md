@@ -12,8 +12,7 @@ note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 Build crashes as soon as I add
 `import {PdfLoader} from 'react-pdf-highlighter-extended';`
 
-
-
+To run dev build, use `npm start`, or release build with `npm build`
 
 
 
