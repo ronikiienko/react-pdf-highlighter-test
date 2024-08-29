@@ -1,4 +1,5 @@
 import React from 'react';
+import {PdfLoader} from 'react-pdf-highlighter-extended';
 
 
 const App = () => {
